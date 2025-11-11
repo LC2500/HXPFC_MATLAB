@@ -1,1 +1,9 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below as well as the journal article: Crystals 2025, 15, 157. https://doi.org/10.3390/cryst15020157"
+authors:
+- family-names: "Willis"
+  given-names: "L. Connor"
+title: "Hydrodynamic Structural Phase Field Crystal Semi-Two Way Coupled."
+version: 2.0.0
+date-released: 2024-12-03
+url: "https://github.com/LC2500/HXPFC_MATLAB"
